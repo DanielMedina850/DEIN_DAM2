@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|c:\\dam_2_daniel_medina\\dein\\ut2\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{116CAA4F-916D-42D4-A114-DB8FBABC8099}|Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas.csproj|solutionrelative:actividad_1.7_navegaci\u00F3n_entre_ventanas_p\u00E1ginas\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Page1.xaml",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Page1.xaml",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Page1.xaml",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:14:34.235Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:18:18.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml.cs",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml.cs",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:31:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T07:58:57.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml.cs",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml.cs",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window2.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:32:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T07:18:19.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml",
+              "RelativeDocumentMoniker": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml",
+              "ToolTip": "C:\\DAM_2_DANIEL_MEDINA\\DEIN\\UT2\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml",
+              "RelativeToolTip": "Actividad_1.7_Navegaci\u00F3n_entre_Ventanas_P\u00E1ginas\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T07:54:08.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

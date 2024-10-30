@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad_1.7_Navegación_entre_Ventanas_Páginas", "Actividad_1.7_Navegación_entre_Ventanas_Páginas\Actividad_1.7_Navegación_entre_Ventanas_Páginas.csproj", "{116CAA4F-916D-42D4-A114-DB8FBABC8099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116CAA4F-916D-42D4-A114-DB8FBABC8099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116CAA4F-916D-42D4-A114-DB8FBABC8099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116CAA4F-916D-42D4-A114-DB8FBABC8099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116CAA4F-916D-42D4-A114-DB8FBABC8099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9037682D-6D22-4649-A33C-6F1FA86F623B}
+	EndGlobalSection
+EndGlobal
