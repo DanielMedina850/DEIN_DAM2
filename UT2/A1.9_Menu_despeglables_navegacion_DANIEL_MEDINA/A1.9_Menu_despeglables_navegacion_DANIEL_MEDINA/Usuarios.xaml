@@ -1,0 +1,17 @@
+﻿<Window x:Class="A1._9_Menu_despeglables_navegacion_DANIEL_MEDINA.Usuarios"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A1._9_Menu_despeglables_navegacion_DANIEL_MEDINA"
+        mc:Ignorable="d"
+        Title="Usuarios" Height="450" Width="800">
+    <Grid>
+
+        <Image HorizontalAlignment="Center"
+               Height="300"
+               VerticalAlignment="Center"
+               Width="500"
+               Source="C:\DEIN_DAM2\UT2\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\img\menu_usuarios.png"/>
+    </Grid>
+</Window>
