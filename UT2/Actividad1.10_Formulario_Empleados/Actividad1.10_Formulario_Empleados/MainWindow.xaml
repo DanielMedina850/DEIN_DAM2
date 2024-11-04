@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Actividad1._10_Formulario_Empleados"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="1200" Width="800">
     <Grid>
 
         <Grid.ColumnDefinitions>
@@ -17,29 +17,148 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        
+
         <Label Grid.Row="1" Grid.ColumnSpan="3" Foreground="Black" HorizontalAlignment="Center"  FontSize="25">
             <Bold>Introducción de Datos de Empleados</Bold>
         </Label>
-        
+
         <StackPanel Grid.Row="2">
             <Grid Width="365">
 
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"/>
-                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
 
-                <Label Grid.Column="1" Foreground="Black" Margin="0,0,108,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+
+
+                <Label  Grid.Column="1" Grid.Row="0" Foreground="Black">
                     <Bold>Nombre*</Bold>
                 </Label>
 
-                <TextBox Grid.Column="2"></TextBox>
+                <TextBox Name="txtNombre" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Margin="131,5,0,10"/>
+
+                <Label  Grid.Column="1" Grid.Row="1" Foreground="Black">
+                    <Bold>Apellidos*</Bold>
+                </Label>
+
+                <TextBox Name="txtApellidos" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Margin="131,5,0,5"/>
+
+                <Label  Grid.Column="1" Grid.Row="2" Foreground="Black">
+                    <Bold>E-mail*</Bold>
+                </Label>
+
+                <TextBox Name="txtEmail" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Margin="131,5,0,5"/>
+
+                <Label  Grid.Column="1" Grid.Row="3" Foreground="Black">
+                    <Bold>Teléfono*</Bold>
+                </Label>
+
+                <TextBox Name="txtTelefono" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Margin="131,5,0,5"/>
+
+                <Label Grid.Column="1" Grid.Row="4" Foreground="Black">
+                    <Bold>Fecha de nacimiento*</Bold>
+                </Label>
+
+                <DatePicker Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2" Margin="131,5,0,20"/>
 
 
+                <Label Grid.Column="1" Grid.Row="5" Foreground="Black">
+                    <Bold>DNI*</Bold>
+                </Label>
+
+                <TextBox Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2" Margin="131,2,0,3"/>
             </Grid>
         </StackPanel>
+
+        <TextBlock Text="Adjuntar fotografía" Grid.Row="3" Margin="0,31,0,-30"></TextBlock>
+        <Button Grid.Row="3" Margin="162,23,99,-38">Cargar Foto</Button>
+
+        <StackPanel Grid.Row="4" Margin="-10,59,10,-59">
+            <Grid Width="365">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Column="1" Grid.Row="0" Foreground="Black" Grid.ColumnSpan="2" Margin="32,0,269,28" Grid.RowSpan="2">
+                    <Bold>Domicilio</Bold>
+                </Label>
+
+                <TextBox Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Margin="131,5,0,10" Text="Dirección"/>
+
+                <TextBox Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Margin="131,5,0,5" Text="Ciudad"/>
+
+                <TextBox Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Margin="131,5,0,5" Text="Provincia"/>
+
+                <TextBox Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Margin="131,5,0,5" Text="Código Postal"/>
+
+                <TextBox Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2" Margin="131,2,0,3" Text="País"/>
+            </Grid>
+        </StackPanel>
+
+        <Image Source="\img\logo.png" Grid.Row="3" Margin="176,9,107,1317" Grid.Column="1" Grid.RowSpan="3"/>
+
+        <Label Grid.Row="5" Margin="0,78,0,1219" >Enlace a red social</Label>
+
+        <TextBox Grid.Row="5" Margin="120,78,75,1219" Grid.ColumnSpan="2" ></TextBox>
+
+        <Label Grid.Row="5" Margin="0,121,0,1169" >Rol actual</Label>
+
+        <ComboBox Grid.Row="5" Width="200" Margin="114,119,51,1173">
+            <ComboBoxItem Content="Desarrollador"/>
+            <ComboBoxItem Content="Analista"/>
+        </ComboBox>
+
+
+        <TextBlock Text="Descripción del puesto de trabajo actual:" Grid.Row="5" Margin="34,203,99,1099"/>
+        <TextBox Grid.Row="5" Height="100" AcceptsReturn="True" Grid.ColumnSpan="2" Margin="26,229,26,994"/>
+
+        <Button Content="Guardar" Width="100"  Grid.Row="5"  Margin="214,378,51,890" Click="Guardar_Click"/>
+        <Button Content="Cancelar" Width="100" Grid.Row="5" Margin="93,378,242,890" Grid.Column="1" RenderTransformOrigin="0.528,0.927"/>
+
+        <DataGrid Name="Datagrid" Grid.Row="5" Margin="75,465,75,572" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
+
+
+                <DataGridTextColumn Header="Apellidos" Binding="{Binding Apellidos}" Width="*"/>
+
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="*"/>
+
+                <DataGridTextColumn Header="Teléfono" Binding="{Binding Telefono}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
     </Grid>
 </Window>
