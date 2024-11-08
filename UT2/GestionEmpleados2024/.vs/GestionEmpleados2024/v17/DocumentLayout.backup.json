@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C1F872B6-2DD7-4652-965A-87B9CA133A1B}|GestionEmpleados2024\\GestionEmpleados2024.csproj|solutionrelative:gestionempleados2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F872B6-2DD7-4652-965A-87B9CA133A1B}|GestionEmpleados2024\\GestionEmpleados2024.csproj|C:\\DEIN_DAM2\\UT2\\GestionEmpleados2024\\gestionempleados2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1F872B6-2DD7-4652-965A-87B9CA133A1B}|GestionEmpleados2024\\GestionEmpleados2024.csproj|c:\\dein_dam2\\ut2\\gestionempleados2024\\gestionempleados2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1F872B6-2DD7-4652-965A-87B9CA133A1B}|GestionEmpleados2024\\GestionEmpleados2024.csproj|solutionrelative:gestionempleados2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +50,8 @@
               "RelativeToolTip": "GestionEmpleados2024\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:19:48.343Z"
+              "WhenOpened": "2024-11-08T09:19:48.343Z",
+              "EditorCaption": ""
             }
           ]
         }
