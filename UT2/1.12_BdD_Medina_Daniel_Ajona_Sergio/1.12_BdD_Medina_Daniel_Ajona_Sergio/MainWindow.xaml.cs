@@ -44,7 +44,7 @@ namespace _1._12_BdD_Medina_Daniel_Ajona_Sergio
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
 
-                listaCiclos.DisplayMemberPath = "Nombre";
+                listaCiclos.DisplayMemberPath = "Denominación";
                 listaCiclos.SelectedValuePath = "Id";
                 listaCiclos.ItemsSource = dt.DefaultView;
             }
