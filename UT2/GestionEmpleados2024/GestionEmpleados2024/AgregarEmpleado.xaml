@@ -29,19 +29,20 @@
 
             <TextBlock Text="Agregar un Empleado" Grid.Row="0" Grid.ColumnSpan="5" HorizontalAlignment="Center" Margin="0,0,5,0" FontSize="30"/>
         
-            <TextBlock Text="Nombre:" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="0,0,5,0"/>
-            <TextBox Grid.Row="1" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+            <TextBlock  Text="Nombre:" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <TextBox x:Name="Nombre" Grid.Row="1" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
 
-            <TextBlock Text="Apellido:" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
-            <TextBox Grid.Row="2" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
-        
+            <TextBlock  Text="Apellido:" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
+            <TextBox x:Name="Apellidos" Grid.Row="2" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+
             <TextBlock Text="Es usuario:" Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
-            <TextBox Grid.Row="3" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
-        
-            <TextBlock Text="Edad:" Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
-            <TextBox Grid.Row="4" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+            <CheckBox x:Name="EsUsuario" Grid.Row="3" Grid.Column="3" Width="150" Margin="0,5,5,0"/>
+            
 
-            <Button Grid.Column="3" Grid.Row="5" Margin="5">Agregar</Button>
+            <TextBlock  Text="Edad:" Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
+            <TextBox x:Name="Edad" Grid.Row="4" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+
+            <Button Grid.Column="3" Grid.Row="5" Margin="5" Click="AgregarEmpleado_Click" >Agregar</Button>
         </Grid>
 
 

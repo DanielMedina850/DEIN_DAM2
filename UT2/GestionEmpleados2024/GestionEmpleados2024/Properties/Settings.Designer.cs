@@ -32,5 +32,16 @@ namespace GestionEmpleados2024.Properties {
                 return ((string)(this["GestionEmpleadosConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=GestionEmpleados;Integrated Se" +
+            "curity=True;Pooling=False;Encrypt=True;TrustServerCertificate=False")]
+        public string GestionEmpleadosConnectionString1 {
+            get {
+                return ((string)(this["GestionEmpleadosConnectionString1"]));
+            }
+        }
     }
 }

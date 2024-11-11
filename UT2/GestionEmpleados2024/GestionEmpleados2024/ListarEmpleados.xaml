@@ -9,6 +9,5 @@
     <Grid>
 
         <DataGrid x:Name="dataGrid" AutoGenerateColumns="True"/>
-        <TextBlock x:Name="text" Margin="0,198,0,0"></TextBlock>
     </Grid>
 </Window>

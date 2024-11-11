@@ -7,6 +7,45 @@
         mc:Ignorable="d"
         Title="ActualizarEmpleados" Height="450" Width="800">
     <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <TextBlock Text="Actualizar un Empleado" Grid.Row="0" Grid.ColumnSpan="5" HorizontalAlignment="Center" Margin="0,0,5,0" FontSize="30"/>
+
+        <TextBlock  Text="Id:" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="0,0,5,0"/>
+        <TextBox x:Name="Id" Grid.Row="1" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
         
+        <TextBlock  Text="Nombre:" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Margin="0,0,5,0"/>
+        <TextBox x:Name="Nombre" Grid.Row="2" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+
+        <TextBlock  Text="Apellido:" Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
+        <TextBox x:Name="Apellidos" Grid.Row="3" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+
+        <TextBlock Text="Es usuario:" Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
+        <CheckBox x:Name="EsUsuario" Grid.Row="4" Grid.Column="3" Width="150" Margin="0,5,5,0"/>
+
+
+        <TextBlock  Text="Edad:" Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" Margin="0,5,5,0"/>
+        <TextBox x:Name="Edad" Grid.Row="5" Grid.Column="3" Width="150" Margin="0 5 0 5"/>
+
+        <Button Grid.Column="3" Grid.Row="6" Margin="5" Click="AgregarEmpleado_Click" >Agregar</Button>
+
     </Grid>
 </Window>

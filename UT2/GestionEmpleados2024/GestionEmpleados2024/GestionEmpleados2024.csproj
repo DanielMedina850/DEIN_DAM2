@@ -94,6 +94,11 @@
     <Compile Include="EliminarEmpleados.xaml.cs">
       <DependentUpon>EliminarEmpleados.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GestionEmpleadosDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GestionEmpleadosDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="ListarEmpleados.xaml.cs">
       <DependentUpon>ListarEmpleados.xaml</DependentUpon>
     </Compile>
@@ -130,6 +135,17 @@
     </None>
     <None Include="DataSetGestionEmpleados.xss">
       <DependentUpon>DataSetGestionEmpleados.xsd</DependentUpon>
+    </None>
+    <None Include="GestionEmpleadosDataSet.xsc">
+      <DependentUpon>GestionEmpleadosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionEmpleadosDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GestionEmpleadosDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GestionEmpleadosDataSet.xss">
+      <DependentUpon>GestionEmpleadosDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

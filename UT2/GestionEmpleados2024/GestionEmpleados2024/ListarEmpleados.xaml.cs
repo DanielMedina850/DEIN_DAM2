@@ -18,6 +18,7 @@ namespace GestionEmpleados2024
 
     public class Empleado
     {
+        public int id { get; set; }
         public string nombre { get; set; }
         public string apellidos { get; set; }
         public bool esUsuario { get; set; }
@@ -39,7 +40,6 @@ namespace GestionEmpleados2024
         { 
             List<Empleado> empleados = new List<Empleado>();
             empleados = main.obtenerEmpleados();
-            text.Text = empleados.Count.ToString();
             dataGrid.ItemsSource = empleados;
         }
     }

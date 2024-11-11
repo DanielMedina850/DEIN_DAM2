@@ -54,6 +54,7 @@ namespace GestionEmpleados2024
             {
                 listaEmpleados = empleados.AsEnumerable().Select(row => new Empleado
                 {
+                    id = row.Field<int>("id"),
                     nombre = row.Field<string>("Nombre"),
                     apellidos = row.Field<string>("Apellidos"),
                     esUsuario = (row["EsUsuario"] != DBNull.Value) ? row.Field<bool>("EsUsuario") : false,
