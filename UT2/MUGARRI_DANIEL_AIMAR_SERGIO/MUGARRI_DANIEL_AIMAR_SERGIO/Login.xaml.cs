@@ -17,18 +17,13 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-
-namespace MiparteDelProyecto
+namespace MUGARRI_DANIEL_AIMAR_SERGIO
 {
-
     public class Usuario
     {
         public string nombre { get; set; }
         public string pass { get; set; }
     }
-    /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
-    /// </summary>
     public partial class Login : Window
     {
         SqlConnection conn;
@@ -40,7 +35,7 @@ namespace MiparteDelProyecto
 
         private void establecerConnection()
         {
-            string miConexion = ConfigurationManager.ConnectionStrings["MiparteDelProyecto.Properties.Settings.MUGARRIConnectionString"].ConnectionString;
+            string miConexion = ConfigurationManager.ConnectionStrings["MUGARRI_DANIEL_AIMAR_SERGIO.Properties.Settings.MUGARRIConnectionString"].ConnectionString;
             conn = new SqlConnection(miConexion);
         }
 
@@ -50,30 +45,27 @@ namespace MiparteDelProyecto
         {
             try
             {
-                // Asegúrate de establecer la conexión
+
                 establecerConnection();
 
-                // Consulta parametrizada
+
                 string consulta = "SELECT COUNT(*) FROM login WHERE Usuario = @usuario AND Contraseña = @password";
 
-                // Abrir la conexión
                 conn.Open();
 
-                // Crear el comando
+     
                 using (SqlCommand command = new SqlCommand(consulta, conn))
                 {
-                    // Asignar parámetros
+
                     command.Parameters.AddWithValue("@usuario", usuario);
                     command.Parameters.AddWithValue("@password", password);
 
-                    // Ejecutar la consulta
                     int count = Convert.ToInt32(command.ExecuteScalar());
 
-                    // Verificar si el usuario existe
                     if (count > 0)
                     {
-                        Logeado log = new Logeado();
-                        log.Show();
+                        Producto producto = new Producto(1);
+                        producto.Show();
                     }
                     else
                     {
@@ -109,24 +101,24 @@ namespace MiparteDelProyecto
 
         private void AgregarUsuario(string username, string password)
         {
-                establecerConnection();
+            establecerConnection();
 
-                string consulta = "INSERT INTO LOGIN (Usuario, Contraseña) VALUES (@username, @password)";
+            string consulta = "INSERT INTO LOGIN (Usuario, Contraseña) VALUES (@username, @password)";
 
-                using (SqlCommand cmd = new SqlCommand(consulta, conn))
+            using (SqlCommand cmd = new SqlCommand(consulta, conn))
+            {
+                cmd.Parameters.AddWithValue("@username", username);
+                cmd.Parameters.AddWithValue("@password", password);
+
+                try
                 {
-                    cmd.Parameters.AddWithValue("@username", username);
-                    cmd.Parameters.AddWithValue("@password", password);
-
-                    try
-                    {
-                        conn.Open();
-                        cmd.ExecuteNonQuery();
-                        texto.Text = "¡Usuario agregado exitosamente!";
-                        texto.Foreground = Brushes.Green;
-                    }
-                    catch (SqlException ex)
-                    {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    texto.Text = "¡Usuario agregado exitosamente!";
+                    texto.Foreground = Brushes.Green;
+                }
+                catch (SqlException ex)
+                {
                     if (ex.Number == 2627)
                     {
                         texto.Text = "El usuario ya existe, cambia el nombre";
@@ -136,7 +128,7 @@ namespace MiparteDelProyecto
                         texto.Text = "Error SQL: " + ex.Message;
                     }
                 }
-                }
+            }
         }
     }
 }

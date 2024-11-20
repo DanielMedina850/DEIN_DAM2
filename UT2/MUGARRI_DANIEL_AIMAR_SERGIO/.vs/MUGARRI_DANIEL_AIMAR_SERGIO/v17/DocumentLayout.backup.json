@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\producto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\producto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\producto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\producto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\modeloproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\modeloproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\mugarri_daniel_aimar_sergio\\mugarri_daniel_aimar_sergio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3FA6CE00-2516-4FE4-BB37-0DE2018AC03E}|MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO.csproj|solutionrelative:mugarri_daniel_aimar_sergio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml.cs",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml.cs",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml.cs",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowB8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:44:27.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.xaml",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\Producto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T12:44:03.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModeloProducto.cs",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\ModeloProducto.cs",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\ModeloProducto.cs",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\ModeloProducto.cs",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\ModeloProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:43:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\App.xaml",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\App.xaml",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\App.xaml",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T12:35:45.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\App.config",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\App.config",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\App.config",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T12:35:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T12:34:00.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml.cs",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\MUGARRI_DANIEL_AIMAR_SERGIO\\MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml.cs",
+              "RelativeToolTip": "MUGARRI_DANIEL_AIMAR_SERGIO\\Login.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:34:00.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
