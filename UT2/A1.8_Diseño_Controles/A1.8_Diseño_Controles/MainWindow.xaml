@@ -17,7 +17,7 @@
                     <Button Width="50" Height="50">
                         <Button.Template>
                             <ControlTemplate>
-                                <Image Height="50" Width="50" Source="C:\DEIN_DAM2\UT2\A1.8_Diseño_Controles\A1.8_Diseño_Controles\img\nieves.jpeg"></Image>
+                                <Image Height="50" Width="50" Source="\img\nieves.jpeg"></Image>
                             </ControlTemplate>
                         </Button.Template>
                     </Button>
@@ -31,7 +31,7 @@
                     <Button Width="50" Height="50">
                         <Button.Template>
                             <ControlTemplate>
-                                <Image Width="50" Source="C:\DEIN_DAM2\UT2\A1.8_Diseño_Controles\A1.8_Diseño_Controles\img\rampage.jpg"></Image>
+                                <Image Width="50" Source="\img\rampage.jpg"></Image>
                             </ControlTemplate>
                         </Button.Template>
                     </Button>
@@ -45,7 +45,7 @@
                     <Button Width="50" Height="50">
                         <Button.Template>
                             <ControlTemplate>
-                                <Image Height="50" Width="50" Source="C:\DEIN_DAM2\UT2\A1.8_Diseño_Controles\A1.8_Diseño_Controles\img\Sin_novedad_Frente.jpg"></Image>
+                                <Image Height="50" Width="50" Source="\img\Sin_novedad_Frente.jpg"></Image>
                             </ControlTemplate>
                         </Button.Template>
                     </Button>
@@ -95,6 +95,7 @@
                 <DataGridTextColumn Header="Nombre" Binding="{Binding name}" Width="*"/>
                 <DataGridTextColumn Header="Apellido_1" Binding="{Binding apellido1}" Width="*"/>
                 <DataGridTextColumn Header="Apellido_2" Width="*" Binding="{Binding apellido2}"/>
+                <DataGridTextColumn Header="Hobbie" Width="*" Binding="{Binding hobbie}"/>
 
             </DataGrid.Columns>
         </DataGrid>

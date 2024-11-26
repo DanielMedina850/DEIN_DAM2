@@ -9,4 +9,26 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="img\nieves.jpeg" />
+    <None Remove="img\rampage.jpg" />
+    <None Remove="img\Sin_novedad_Frente.jpg" />
+    <None Remove="img\vecteezy_loading-bar-progress-icon-with-transparent-background_17178206.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="img\nieves.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\rampage.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\Sin_novedad_Frente.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\vecteezy_loading-bar-progress-icon-with-transparent-background_17178206.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

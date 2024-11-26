@@ -21,7 +21,12 @@ namespace A1._9_Menu_despeglables_navegacion_DANIEL_MEDINA
         {
             InitializeComponent();
             CommandBindings.Add(new CommandBinding(ApplicationCommands.Copy, M_Copiar_Click));
+            CommandBindings.Add(new CommandBinding(ApplicationCommands.Paste, M_Pegar_Click));
+            CommandBindings.Add(new CommandBinding(ApplicationCommands.Cut, M_Cortar_Click));
+            CommandBindings.Add(new CommandBinding(ApplicationCommands.Delete, M_Eliminar_Click));
         }
+
+
 
 
         private void M_Nuevo_Click(object sender, RoutedEventArgs e)
@@ -71,8 +76,18 @@ namespace A1._9_Menu_despeglables_navegacion_DANIEL_MEDINA
         private void M_Cortar_Click(object sender, RoutedEventArgs e) {
             MessageBox.Show(" Cortado ");        
         }
+
         private void M_Pegar_Click(object sender, RoutedEventArgs e) {
-            MessageBox.Show(" Pegado ");        
+            if (Clipboard.ContainsText())
+            {
+                string textoPegar = Clipboard.GetText();
+                // Aquí puedes manejar el texto pegado según tu lógica
+                MessageBox.Show($"Texto pegado: {textoPegar}");
+            }
+            else
+            {
+                MessageBox.Show("El portapapeles está vacío o no contiene texto.");
+            }
         }
         private void M_Eliminar_Click(object sender, RoutedEventArgs e) {
             MessageBox.Show(" Eliminado ");        

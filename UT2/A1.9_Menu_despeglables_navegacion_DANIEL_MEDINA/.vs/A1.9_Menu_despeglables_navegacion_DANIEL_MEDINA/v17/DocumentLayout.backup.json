@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|c:\\dein_dam2\\ut2\\a1.9_menu_despeglables_navegacion_daniel_medina\\a1.9_menu_despeglables_navegacion_daniel_medina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|solutionrelative:a1.9_menu_despeglables_navegacion_daniel_medina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|c:\\dein_dam2\\ut2\\a1.9_menu_despeglables_navegacion_daniel_medina\\a1.9_menu_despeglables_navegacion_daniel_medina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|solutionrelative:a1.9_menu_despeglables_navegacion_daniel_medina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|c:\\dein_dam2\\ut2\\a1.9_menu_despeglables_navegacion_daniel_medina\\a1.9_menu_despeglables_navegacion_daniel_medina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|solutionrelative:a1.9_menu_despeglables_navegacion_daniel_medina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB7FC47-A9CC-4FA8-B16B-EF55749BC228}|A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA.csproj|c:\\dein_dam2\\ut2\\a1.9_menu_despeglables_navegacion_daniel_medina\\a1.9_menu_despeglables_navegacion_daniel_medina\\usuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,8 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:41:38.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
+              "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
+              "RelativeToolTip": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T18:40:44.326Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -33,32 +58,7 @@
               "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\Usuarios.xaml",
               "RelativeToolTip": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\Usuarios.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T08:47:56.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
-              "RelativeToolTip": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-31T08:28:17.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
-              "RelativeToolTip": "A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwBYAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:28:16.615Z",
+              "WhenOpened": "2024-11-26T18:40:42.867Z",
               "EditorCaption": ""
             }
           ]

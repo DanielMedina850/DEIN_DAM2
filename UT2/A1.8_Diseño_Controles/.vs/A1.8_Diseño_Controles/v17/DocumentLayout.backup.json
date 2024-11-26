@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\A1.8_Dise\u00F1o_Controles\\A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.8_Dise\u00F1o_Controles\\A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
-              "RelativeToolTip": "A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBkAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T11:32:30.004Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -42,7 +29,20 @@
               "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.8_Dise\u00F1o_Controles\\A1.8_Dise\u00F1o_Controles\\MainWindow.xaml",
               "RelativeToolTip": "A1.8_Dise\u00F1o_Controles\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T11:32:30.768Z",
+              "WhenOpened": "2024-11-26T18:30:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\A1.8_Dise\u00F1o_Controles\\A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DEIN_DAM2\\UT2\\A1.8_Dise\u00F1o_Controles\\A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
+              "RelativeToolTip": "A1.8_Dise\u00F1o_Controles\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:28:21.513Z",
               "EditorCaption": ""
             }
           ]

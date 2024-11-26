@@ -10,6 +10,7 @@
         ResizeMode="CanResizeWithGrip">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
+            
             <MenuItem Header="_Fichero">
                 <MenuItem Header="_Nuevo" Click="M_Nuevo_Click" InputGestureText="Ctrl+N"/>
                 <MenuItem Header="_Abrir" Click="M_Abrir_Click" InputGestureText="Ctrl+O"/>
@@ -23,7 +24,7 @@
             <MenuItem Header="_Herramientas">
                 <MenuItem Header="_Gestión de Usuarios" Click="M_Usuarios_Click">
                     <MenuItem.Icon>
-                        <Image Source="C:\DEIN_DAM2\UT2\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\A1.9_Menu_despeglables_navegacion_DANIEL_MEDINA\img\Usuario.png" Stretch="Fill"/>
+                        <Image Source="\img\Usuario.png" Stretch="Fill"/>
                     </MenuItem.Icon>
                 </MenuItem>
                 <MenuItem Header="_Mostrar Grupos" IsCheckable="True" IsChecked="True"/>
@@ -43,6 +44,9 @@
 
     <Window.InputBindings>
         <KeyBinding Key="C" Modifiers="Ctrl" Command="{Binding CopiarCommand}"/>
+        <KeyBinding Key="V" Modifiers="Ctrl" Command="{Binding PegarCommand}" />
+        <KeyBinding Key="X" Modifiers="Ctrl" Command="{Binding CortarCommand}"/>
+        <KeyBinding Key="X" Modifiers="Ctrl" Command="{Binding EliminarCommand}"/>
     </Window.InputBindings>
 
 </Window>
