@@ -1,21 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\",
+  "WorkspaceRootPath": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|c:\\dein_dam2\\ut2\\ddbb_clase_pelis\\ddbb_clase\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|solutionrelative:ddbb_clase\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|c:\\dein_dam2\\ut2\\ddbb_clase_pelis\\ddbb_clase\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|solutionrelative:ddbb_clase\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|c:\\dein_dam2\\ut2\\ddbb_clase_pelis\\ddbb_clase\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|solutionrelative:ddbb_clase\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|c:\\dein_dam2\\ut2\\ddbb_clase_pelis\\ddbb_clase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\ddbb_clase_pelis\\ddbb_clase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B590AF7B-7BAC-4A8C-A723-5BE460AAE913}|DDBB_clase\\DDBB_clase.csproj|solutionrelative:ddbb_clase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -26,35 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\Window1.xaml",
-              "RelativeDocumentMoniker": "DDBB_clase\\Window1.xaml",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\Window1.xaml*",
-              "RelativeToolTip": "DDBB_clase\\Window1.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-06T20:01:25.667Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\Window1.xaml.cs",
-              "RelativeDocumentMoniker": "DDBB_clase\\Window1.xaml.cs",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\Window1.xaml.cs",
-              "RelativeToolTip": "DDBB_clase\\Window1.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:01:54.896Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
@@ -65,27 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DDBB_clase\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DDBB_clase\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:35:42.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DDBB_clase\\MainWindow.xaml",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\MainWindow.xaml",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\DDBB_clase_pelis\\DDBB_clase\\MainWindow.xaml",
               "RelativeToolTip": "DDBB_clase\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-28T14:35:47.681Z"
+              "WhenOpened": "2024-11-27T12:42:30.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

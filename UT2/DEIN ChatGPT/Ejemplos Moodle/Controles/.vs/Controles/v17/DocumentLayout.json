@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibanh\\Downloads\\Controles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B09E6-5D7E-4EED-9747-AB0967311C7C}|Controles\\Controles.csproj|c:\\users\\ibanh\\downloads\\controles\\controles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C1B09E6-5D7E-4EED-9747-AB0967311C7C}|Controles\\Controles.csproj|solutionrelative:controles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ibanh\\Downloads\\Controles\\Controles\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Controles\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ibanh\\Downloads\\Controles\\Controles\\MainWindow.xaml",
+              "RelativeToolTip": "Controles\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T18:55:41.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

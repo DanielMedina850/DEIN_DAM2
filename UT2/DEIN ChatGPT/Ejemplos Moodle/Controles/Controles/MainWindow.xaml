@@ -1,0 +1,107 @@
+﻿<Window x:Class="Controles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Controles"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <StackPanel Margin="10">
+        <!-- Button -->
+        <Button >Simple</Button>
+        <Button Background="Black" Foreground="White" FontWeight="Bold">Con formato</Button>
+        <Button>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>Botón</TextBlock>
+                <TextBlock Foreground="Blue" FontWeight="Bold" Margin="2,0">Compuesto</TextBlock>
+            </StackPanel>
+        </Button>
+        
+        <!-- CheckBox -->
+        <CheckBox IsChecked="True" Name="cbTresEstados" >Habilitarlos todos con un click</CheckBox>
+        <StackPanel Margin="20,5">
+            <CheckBox Name="cbFeatureAbc" IsThreeState="True"> Tres estados</CheckBox>
+            <CheckBox Name="cbFeatureXyz" >Otra opción</CheckBox>
+        </StackPanel>
+
+        <!-- RadioButton -->
+        <Label FontWeight="Bold">¿Qué opción eliges</Label>
+        <RadioButton GroupName="opc">Primera</RadioButton>
+        <RadioButton GroupName="opc">Segunda</RadioButton>
+        <RadioButton GroupName="opc" IsChecked="True">Tercera</RadioButton>
+
+
+        <!-- TextBlock-->
+        <TextBlock Margin="10" TextWrapping="Wrap">
+			TextBlock con <Bold>texto negrita</Bold>, <Italic>italic</Italic> y <Underline>subrayado</Underline>.
+            <Span Background="Silver" Foreground="Green">dentro de la etiqueta Span</Span>
+           <!-- Además, añade un hypervínculo a <Hyperlink NavigateUri="https://www.google.com">Google</Hyperlink>. -->
+        </TextBlock>
+
+        <!--TextBox-->
+        <TextBox Text="Texto en una línea" />
+        <TextBox AcceptsReturn="True" TextWrapping="Wrap"  Text="Texto en múltiples líneas" />
+
+        <!--ComboBox -->
+        <ComboBox>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Foreground="Red">Rojo</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Foreground="Green">Verde</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Foreground="Blue">Azul</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox Name="cmbColors">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/wifi.PNG" />
+                        <TextBlock Text="{Binding}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <!-- ListBox -->
+        <ListBox>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock>ListBox Item #1</TextBlock>
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock>ListBox Item #2</TextBlock>
+                </StackPanel>
+            </ListBoxItem>
+        </ListBox>
+       
+        <!-- ListView -->
+        <ListView Margin="10" Name="listaViweUsuarios">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="120" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Age" Width="50" DisplayMemberBinding="{Binding Age}" />
+                    <GridViewColumn Header="Mail" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Mail}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </StackPanel>
+</Window>

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\",
+  "WorkspaceRootPath": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64616761-D6DB-43A1-84F0-54809143EB22}|Apuntes\\Apuntes.csproj|c:\\dein_dam2\\ut2\\apuntes\\apuntes\\apuntes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{64616761-D6DB-43A1-84F0-54809143EB22}|Apuntes\\Apuntes.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\apuntes\\apuntes\\apuntes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{64616761-D6DB-43A1-84F0-54809143EB22}|Apuntes\\Apuntes.csproj|solutionrelative:apuntes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64616761-D6DB-43A1-84F0-54809143EB22}|Apuntes\\Apuntes.csproj|c:\\dein_dam2\\ut2\\apuntes\\apuntes\\apuntes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64616761-D6DB-43A1-84F0-54809143EB22}|Apuntes\\Apuntes.csproj|c:\\proyectos\\dein\\1\u00BA evaluaci\u00F3n\\dein_dam2\\ut2\\apuntes\\apuntes\\apuntes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64616761-D6DB-43A1-84F0-54809143EB22}|Apuntes\\Apuntes.csproj|solutionrelative:apuntes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +18,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Apuntes\\MainWindow.xaml",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml",
-              "RelativeToolTip": "Apuntes\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-26T16:07:05.737Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Apuntes\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml.cs",
               "RelativeToolTip": "Apuntes\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAwwEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:07:05.643Z",
+              "WhenOpened": "2024-11-27T12:11:57.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Apuntes\\MainWindow.xaml",
+              "ToolTip": "C:\\PROYECTOS\\DEIN\\1\u00BA EVALUACI\u00D3N\\DEIN_DAM2\\UT2\\Apuntes\\Apuntes\\Apuntes\\MainWindow.xaml",
+              "RelativeToolTip": "Apuntes\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T07:15:40.815Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

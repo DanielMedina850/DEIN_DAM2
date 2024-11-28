@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|c:\\users\\ibanh\\downloads\\ejemploestilos\\estiloscontroles\\estilosaplicacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|solutionrelative:estiloscontroles\\estilosaplicacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|c:\\users\\ibanh\\downloads\\ejemploestilos\\estiloscontroles\\estilosdise\u00F1o.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|solutionrelative:estiloscontroles\\estilosdise\u00F1o.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|c:\\users\\ibanh\\downloads\\ejemploestilos\\estiloscontroles\\estilosindividuales.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|solutionrelative:estiloscontroles\\estilosindividuales.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|c:\\users\\ibanh\\downloads\\ejemploestilos\\estiloscontroles\\estilosventana.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BFEAAA3-134F-42FD-9D27-15979F870059}|EstilosControles\\Estilos.csproj|solutionrelative:estiloscontroles\\estilosventana.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstilosAplicacion.xaml",
+              "DocumentMoniker": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosAplicacion.xaml",
+              "RelativeDocumentMoniker": "EstilosControles\\EstilosAplicacion.xaml",
+              "ToolTip": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosAplicacion.xaml",
+              "RelativeToolTip": "EstilosControles\\EstilosAplicacion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T18:57:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstilosDise\u00F1o.xaml",
+              "DocumentMoniker": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosDise\u00F1o.xaml",
+              "RelativeDocumentMoniker": "EstilosControles\\EstilosDise\u00F1o.xaml",
+              "ToolTip": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosDise\u00F1o.xaml",
+              "RelativeToolTip": "EstilosControles\\EstilosDise\u00F1o.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T18:57:53.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstilosIndividuales.xaml",
+              "DocumentMoniker": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosIndividuales.xaml",
+              "RelativeDocumentMoniker": "EstilosControles\\EstilosIndividuales.xaml",
+              "ToolTip": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosIndividuales.xaml",
+              "RelativeToolTip": "EstilosControles\\EstilosIndividuales.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T18:57:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstilosVentana.xaml",
+              "DocumentMoniker": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosVentana.xaml",
+              "RelativeDocumentMoniker": "EstilosControles\\EstilosVentana.xaml",
+              "ToolTip": "C:\\Users\\ibanh\\Downloads\\EjemploEstilos\\EstilosControles\\EstilosVentana.xaml",
+              "RelativeToolTip": "EstilosControles\\EstilosVentana.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T18:57:48.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

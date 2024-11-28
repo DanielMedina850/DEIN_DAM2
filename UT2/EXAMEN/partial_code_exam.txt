@@ -1,0 +1,15 @@
+public partial class MainWindow : Window
+{
+    private List<Product> Products = new List<Product>();
+    private Product SelectedProduct = null;
+
+    public MainWindow()
+    {
+        InitializeComponent();
+        Products = new List<Product>
+        {
+            new Product { Id = 1, Name = "Televisor", Price = 500.99, Quantity = 10 },
+            new Product { Id = 2, Name = "Silla", Price = 49.99, Quantity = 20 }
+        };
+        // ....
+    }

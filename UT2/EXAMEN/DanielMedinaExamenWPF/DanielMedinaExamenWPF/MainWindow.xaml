@@ -1,0 +1,121 @@
+﻿<Window x:Class="DanielMedinaExamenWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DanielMedinaExamenWPF"
+        mc:Ignorable="d"
+        Title="Examen DanielMedina" Height="600" Width="900">
+
+    <Window.Resources>
+        <Style x:Key="EstiloTextBlock" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#007ACC"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style x:Key="EstiloGrid" TargetType="Grid">
+            <Setter Property="Background" Value="#bfbfbf"/>
+            <Setter Property="Margin" Value="10,0,0,0"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <TextBlock Style="{StaticResource EstiloTextBlock}">Lista Productos</TextBlock>
+        </StackPanel>
+
+        <DataGrid Margin="0,113,0,112" x:Name="dataGridProductos">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="100" Binding="{Binding id}" />
+                <DataGridTextColumn Header="Producto" Width="200" Binding="{Binding name}"/>
+                <DataGridTextColumn Header="Precio" Width="100" Binding="{Binding precio}" />
+                <DataGridTextColumn Header="Cantidad" Width="100" Binding="{Binding cantidad}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+
+        <Grid Grid.Column="1" Style="{StaticResource EstiloGrid}" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="90*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="50*"/>
+                <RowDefinition Height="180*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.ColumnSpan="2">
+                <TextBlock Style="{StaticResource EstiloTextBlock}"><Run Text="Detalles del Producto"/></TextBlock>
+            </StackPanel>
+
+
+            <TextBlock Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Width="12">ID</TextBlock>
+            <TextBlock Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Width="43">Produto</TextBlock>
+            <TextBlock Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Width="33">Precio</TextBlock>
+            <StackPanel Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Height="16" Width="57">
+                <TextBlock>Cantidad:</TextBlock>
+                <TextBlock Height="40" Width="39">
+                    <TextBlock.Text>
+                        <Binding ElementName="sliderControl" Path="Value" />
+                    </TextBlock.Text>
+                </TextBlock>
+            </StackPanel>
+
+
+            <Slider Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" Minimum="0" Maximum="100" x:Name="sliderControl" Height="19" Margin="35,0,0,0"></Slider>
+
+
+            <TextBox Grid.Column="1" VerticalAlignment="Center" Grid.Row="1" IsEnabled="False" Height="18"/>
+            <TextBox Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" x:Name="txtProducto" Height="18"/>
+            <TextBox Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" x:Name="txtPrecio" Height="18"/>
+
+            <StackPanel Grid.Row="5" Orientation="Horizontal" Grid.ColumnSpan="2">
+
+                <Border Margin="0,53,0,0" Height="50">
+                    <Border.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="Background" Value="#519138"/>
+                            <Setter Property="BorderThickness" Value="2"/>
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Border.Resources>
+                    <Button Background="Transparent" BorderBrush="Transparent" Click="Button_Click_Guardar" Width="135">Guardar</Button>
+                </Border>
+
+                <Border Grid.Row="5" Grid.Column="1" Margin="0,53,0,0" Height="50">
+                    <Border.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="Background" Value="#b77e88"/>
+                            <Setter Property="BorderThickness" Value="2"/>
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Border.Resources>
+                    <Button Background="Transparent" BorderBrush="Transparent" Click="Button_Click_Limpiar" Width="148">Limpiar</Button>
+                </Border>
+
+            </StackPanel>
+
+
+        </Grid>
+
+
+    </Grid>
+</Window>
